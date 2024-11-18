@@ -1,1 +1,1 @@
-# WS2811
+# Programm für eine WS8122 LED Leiste
